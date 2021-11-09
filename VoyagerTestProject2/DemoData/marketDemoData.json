@@ -1,0 +1,2510 @@
+[
+  {
+    "pair_symbol": "AAVE/USD",
+    "price": "319.01",
+    "ask": "323.15",
+    "bid": "314.93",
+    "volume_24hr": "63001830.95",
+    "change_amt_24hr": "0.46",
+    "change_pct_24hr": "0.14",
+    "high_24hr": "324.00",
+    "low_24hr": "316.44",
+    "high_52w": "456.72",
+    "low_52w": "170.25",
+    "circulation": "16000000",
+    "market_cap": "5104080068.32",
+    "time": 1636324343,
+    "stats": [
+      {
+        "period": 1,
+        "price": "321.12"
+      },
+      {
+        "period": 24,
+        "price": "318.55"
+      },
+      {
+        "period": 168,
+        "price": "314.35"
+      },
+      {
+        "period": 720,
+        "price": "307.49"
+      },
+      {
+        "period": 8760,
+        "price": "44.65"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "ADA/USD",
+    "price": "2.017",
+    "ask": "2.044",
+    "bid": "1.985",
+    "volume_24hr": "655127251.376",
+    "change_amt_24hr": "0.028",
+    "change_pct_24hr": "1.380",
+    "high_24hr": "2.035",
+    "low_24hr": "1.975",
+    "high_52w": "3.097",
+    "low_52w": "0.099",
+    "circulation": "32779493958.392647",
+    "market_cap": "66131132349.363",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "2.018"
+      },
+      {
+        "period": 24,
+        "price": "1.990"
+      },
+      {
+        "period": 168,
+        "price": "1.982"
+      },
+      {
+        "period": 720,
+        "price": "2.297"
+      },
+      {
+        "period": 8760,
+        "price": "0.109"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "ALGO/USD",
+    "price": "1.858",
+    "ask": "1.879",
+    "bid": "1.834",
+    "volume_24hr": "110462448.357",
+    "change_amt_24hr": "0.026",
+    "change_pct_24hr": "1.400",
+    "high_24hr": "1.871",
+    "low_24hr": "1.819",
+    "high_52w": "2.550",
+    "low_52w": "0.249",
+    "circulation": "6668019857.878668",
+    "market_cap": "12386043659.276",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "1.867"
+      },
+      {
+        "period": 24,
+        "price": "1.832"
+      },
+      {
+        "period": 168,
+        "price": "1.848"
+      },
+      {
+        "period": 720,
+        "price": "1.901"
+      },
+      {
+        "period": 8760,
+        "price": "0.277"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "ATOM/USD",
+    "price": "35.64",
+    "ask": "36.01",
+    "bid": "35.19",
+    "volume_24hr": "238982316.45",
+    "change_amt_24hr": "-0.38",
+    "change_pct_24hr": "-1.04",
+    "high_24hr": "36.43",
+    "low_24hr": "35.50",
+    "high_52w": "44.65",
+    "low_52w": "4.22",
+    "circulation": "281971067.066525",
+    "market_cap": "10050645673.36",
+    "time": 1636324341,
+    "stats": [
+      {
+        "period": 1,
+        "price": "35.72"
+      },
+      {
+        "period": 24,
+        "price": "36.02"
+      },
+      {
+        "period": 168,
+        "price": "37.49"
+      },
+      {
+        "period": 720,
+        "price": "37.37"
+      },
+      {
+        "period": 8760,
+        "price": "4.88"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "AVAX/USD",
+    "price": "86.63",
+    "ask": "87.73",
+    "bid": "85.54",
+    "volume_24hr": "964480948.33",
+    "change_amt_24hr": "9.12",
+    "change_pct_24hr": "11.77",
+    "high_24hr": "88.95",
+    "low_24hr": "77.40",
+    "high_52w": "88.95",
+    "low_52w": "2.75",
+    "circulation": "391128418.8675511",
+    "market_cap": "33882472544.89",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "86.62"
+      },
+      {
+        "period": 24,
+        "price": "77.51"
+      },
+      {
+        "period": 168,
+        "price": "64.37"
+      },
+      {
+        "period": 720,
+        "price": "61.71"
+      },
+      {
+        "period": 8760,
+        "price": "3.59"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "BAND/USD",
+    "price": "9.25",
+    "ask": "9.37",
+    "bid": "9.13",
+    "volume_24hr": "16454023.30",
+    "change_amt_24hr": "-0.03",
+    "change_pct_24hr": "-0.33",
+    "high_24hr": "9.44",
+    "low_24hr": "9.19",
+    "high_52w": "23.17",
+    "low_52w": "4.06",
+    "circulation": "100000000",
+    "market_cap": "925183610.00",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "9.27"
+      },
+      {
+        "period": 24,
+        "price": "9.28"
+      },
+      {
+        "period": 168,
+        "price": "9.69"
+      },
+      {
+        "period": 720,
+        "price": "8.49"
+      },
+      {
+        "period": 8760,
+        "price": "5.64"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "BAT/USD",
+    "price": "0.991",
+    "ask": "1.001",
+    "bid": "0.979",
+    "volume_24hr": "81583197.467",
+    "change_amt_24hr": "-0.007",
+    "change_pct_24hr": "-0.720",
+    "high_24hr": "1.027",
+    "low_24hr": "0.981",
+    "high_52w": "1.651",
+    "low_52w": "0.181",
+    "circulation": "1500000000",
+    "market_cap": "1486923915.000",
+    "time": 1636324341,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.993"
+      },
+      {
+        "period": 24,
+        "price": "0.998"
+      },
+      {
+        "period": 168,
+        "price": "1.020"
+      },
+      {
+        "period": 720,
+        "price": "0.731"
+      },
+      {
+        "period": 8760,
+        "price": "0.204"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "BCH/USD",
+    "price": "597.18",
+    "ask": "601.48",
+    "bid": "592.45",
+    "volume_24hr": "232225617.88",
+    "change_amt_24hr": "10.46",
+    "change_pct_24hr": "1.78",
+    "high_24hr": "599.15",
+    "low_24hr": "586.03",
+    "high_52w": "1642.80",
+    "low_52w": "241.75",
+    "circulation": "18885343.64665294",
+    "market_cap": "11277967733.07",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "598.35"
+      },
+      {
+        "period": 24,
+        "price": "586.73"
+      },
+      {
+        "period": 168,
+        "price": "600.46"
+      },
+      {
+        "period": 720,
+        "price": "613.15"
+      },
+      {
+        "period": 8760,
+        "price": "258.16"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "BSV/USD",
+    "price": "167.87",
+    "ask": "171.42",
+    "bid": "163.69",
+    "volume_24hr": "72688977.46",
+    "change_amt_24hr": "1.16",
+    "change_pct_24hr": "0.69",
+    "high_24hr": "168.44",
+    "low_24hr": "166.32",
+    "high_52w": "490.39",
+    "low_52w": "106.24",
+    "circulation": "18890514.14423905",
+    "market_cap": "3171119325.19",
+    "time": 1636324326,
+    "stats": [
+      {
+        "period": 1,
+        "price": "167.78"
+      },
+      {
+        "period": 24,
+        "price": "166.71"
+      },
+      {
+        "period": 168,
+        "price": "160.63"
+      },
+      {
+        "period": 720,
+        "price": "166.60"
+      },
+      {
+        "period": 8760,
+        "price": "168.28"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "BTC/USD",
+    "price": "62893.22",
+    "ask": "63256.76",
+    "bid": "62497.73",
+    "volume_24hr": "7263910999.37",
+    "change_amt_24hr": "1590.55",
+    "change_pct_24hr": "2.59",
+    "high_24hr": "63093.16",
+    "low_24hr": "61231.81",
+    "high_52w": "66964.93",
+    "low_52w": "14812.70",
+    "circulation": "18857862",
+    "market_cap": "1186031692033.24",
+    "time": 1636324338,
+    "stats": [
+      {
+        "period": 1,
+        "price": "62958.56"
+      },
+      {
+        "period": 24,
+        "price": "61302.67"
+      },
+      {
+        "period": 168,
+        "price": "61456.33"
+      },
+      {
+        "period": 720,
+        "price": "54275.03"
+      },
+      {
+        "period": 8760,
+        "price": "15592.88"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "BTT/USD",
+    "price": "0.003968",
+    "ask": "0.004057",
+    "bid": "0.003852",
+    "volume_24hr": "305797254.453757",
+    "change_amt_24hr": "0.000107",
+    "change_pct_24hr": "2.760000",
+    "high_24hr": "0.004050",
+    "low_24hr": "0.003752",
+    "high_52w": "0.013542",
+    "low_52w": "0.000270",
+    "circulation": "989988451602.2917",
+    "market_cap": "3928402874.456602",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.003981"
+      },
+      {
+        "period": 24,
+        "price": "0.003862"
+      },
+      {
+        "period": 168,
+        "price": "0.004144"
+      },
+      {
+        "period": 720,
+        "price": "0.003652"
+      },
+      {
+        "period": 8760,
+        "price": "0.000300"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "CELO/USD",
+    "price": "6.298",
+    "ask": "6.425",
+    "bid": "6.160",
+    "volume_24hr": "27390184.928",
+    "change_amt_24hr": "-0.024",
+    "change_pct_24hr": "-0.380",
+    "high_24hr": "6.447",
+    "low_24hr": "6.207",
+    "high_52w": "10.632",
+    "low_52w": "1.351",
+    "circulation": "1000000000",
+    "market_cap": "6297701270.000",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "6.319"
+      },
+      {
+        "period": 24,
+        "price": "6.322"
+      },
+      {
+        "period": 168,
+        "price": "6.222"
+      },
+      {
+        "period": 720,
+        "price": "5.842"
+      },
+      {
+        "period": 8760,
+        "price": "1.700"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "CHZ/USD",
+    "price": "0.48964",
+    "ask": "0.49543",
+    "bid": "0.48259",
+    "volume_24hr": "489570777.20942",
+    "change_amt_24hr": "-0.01464",
+    "change_pct_24hr": "-2.90000",
+    "high_24hr": "0.52817",
+    "low_24hr": "0.47505",
+    "high_52w": "0.92000",
+    "low_52w": "0.00970",
+    "circulation": "8888888888",
+    "market_cap": "4352329599.56477",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.48947"
+      },
+      {
+        "period": 24,
+        "price": "0.50428"
+      },
+      {
+        "period": 168,
+        "price": "0.41267"
+      },
+      {
+        "period": 720,
+        "price": "0.34195"
+      },
+      {
+        "period": 8760,
+        "price": "0.01045"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "CKB/USD",
+    "price": "0.02737",
+    "ask": "0.02801",
+    "bid": "0.02673",
+    "volume_24hr": "129386139.17426",
+    "change_amt_24hr": "-0.00485",
+    "change_pct_24hr": "-15.04000",
+    "high_24hr": "0.03328",
+    "low_24hr": "0.02657",
+    "high_52w": "0.04442",
+    "low_52w": "0.00276",
+    "circulation": "34357886709.326317",
+    "market_cap": "940505232.04602",
+    "time": 1636324341,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.02758"
+      },
+      {
+        "period": 24,
+        "price": "0.03222"
+      },
+      {
+        "period": 168,
+        "price": "0.01997"
+      },
+      {
+        "period": 720,
+        "price": "0.01437"
+      },
+      {
+        "period": 8760,
+        "price": "0.00296"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "COMP/USD",
+    "price": "364.35",
+    "ask": "367.13",
+    "bid": "359.57",
+    "volume_24hr": "51944355.78",
+    "change_amt_24hr": "11.13",
+    "change_pct_24hr": "3.15",
+    "high_24hr": "367.62",
+    "low_24hr": "350.70",
+    "high_52w": "911.91",
+    "low_52w": "93.18",
+    "circulation": "10000000",
+    "market_cap": "3643514785.10",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "364.49"
+      },
+      {
+        "period": 24,
+        "price": "353.22"
+      },
+      {
+        "period": 168,
+        "price": "341.96"
+      },
+      {
+        "period": 720,
+        "price": "319.51"
+      },
+      {
+        "period": 8760,
+        "price": "95.78"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "DAI/USD",
+    "price": "1.0003",
+    "ask": "1.0077",
+    "bid": "0.9913",
+    "volume_24hr": "19992430.8022",
+    "change_amt_24hr": "-0.0001",
+    "change_pct_24hr": "-0.0100",
+    "high_24hr": "1.0009",
+    "low_24hr": "0.9999",
+    "high_52w": "1.1005",
+    "low_52w": "0.9789",
+    "circulation": "8122666098.547589",
+    "market_cap": "8125295405.5637",
+    "time": 1636324334,
+    "stats": [
+      {
+        "period": 1,
+        "price": "1.0003"
+      },
+      {
+        "period": 24,
+        "price": "1.0004"
+      },
+      {
+        "period": 168,
+        "price": "1.0000"
+      },
+      {
+        "period": 720,
+        "price": "1.0006"
+      },
+      {
+        "period": 8760,
+        "price": "1.0106"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "DASH/USD",
+    "price": "192.95",
+    "ask": "194.77",
+    "bid": "190.93",
+    "volume_24hr": "49326490.68",
+    "change_amt_24hr": "3.06",
+    "change_pct_24hr": "1.61",
+    "high_24hr": "193.27",
+    "low_24hr": "189.58",
+    "high_52w": "478.00",
+    "low_52w": "66.34",
+    "circulation": "10424735.17081488",
+    "market_cap": "2011461471.89",
+    "time": 1636324336,
+    "stats": [
+      {
+        "period": 1,
+        "price": "193.19"
+      },
+      {
+        "period": 24,
+        "price": "189.89"
+      },
+      {
+        "period": 168,
+        "price": "192.47"
+      },
+      {
+        "period": 720,
+        "price": "191.33"
+      },
+      {
+        "period": 8760,
+        "price": "70.07"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "DGB/USD",
+    "price": "0.05373",
+    "ask": "0.05482",
+    "bid": "0.05257",
+    "volume_24hr": "16980954.10205",
+    "change_amt_24hr": "0.00120",
+    "change_pct_24hr": "2.28000",
+    "high_24hr": "0.05427",
+    "low_24hr": "0.05224",
+    "high_52w": "0.18263",
+    "low_52w": "0.01758",
+    "circulation": "14821984499.918999",
+    "market_cap": "796365662.16111",
+    "time": 1636324333,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.05395"
+      },
+      {
+        "period": 24,
+        "price": "0.05253"
+      },
+      {
+        "period": 168,
+        "price": "0.05775"
+      },
+      {
+        "period": 720,
+        "price": "0.05254"
+      },
+      {
+        "period": 8760,
+        "price": "0.02146"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "DOGE/USD",
+    "price": "0.2661",
+    "ask": "0.2733",
+    "bid": "0.2585",
+    "volume_24hr": "562796391.4424",
+    "change_amt_24hr": "0.0047",
+    "change_pct_24hr": "1.8000",
+    "high_24hr": "0.2691",
+    "low_24hr": "0.2578",
+    "high_52w": "0.7397",
+    "low_52w": "0.0026",
+    "circulation": "131876336383.70522",
+    "market_cap": "35090801590.3395",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.2655"
+      },
+      {
+        "period": 24,
+        "price": "0.2614"
+      },
+      {
+        "period": 168,
+        "price": "0.2769"
+      },
+      {
+        "period": 720,
+        "price": "0.2452"
+      },
+      {
+        "period": 8760,
+        "price": "0.0028"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "DOT/USD",
+    "price": "52.01",
+    "ask": "52.71",
+    "bid": "51.27",
+    "volume_24hr": "1001955690.72",
+    "change_amt_24hr": "0.09",
+    "change_pct_24hr": "0.17",
+    "high_24hr": "53.48",
+    "low_24hr": "51.27",
+    "high_52w": "55.06",
+    "low_52w": "4.24",
+    "circulation": "1129148407.0564628",
+    "market_cap": "58728926791.86",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "52.30"
+      },
+      {
+        "period": 24,
+        "price": "51.92"
+      },
+      {
+        "period": 168,
+        "price": "43.03"
+      },
+      {
+        "period": 720,
+        "price": "34.15"
+      },
+      {
+        "period": 8760,
+        "price": "4.58"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "EGLD/USD",
+    "price": "315.84",
+    "ask": "321.98",
+    "bid": "310.16",
+    "volume_24hr": "77888411.24",
+    "change_amt_24hr": "0.07",
+    "change_pct_24hr": "0.02",
+    "high_24hr": "328.85",
+    "low_24hr": "313.11",
+    "high_52w": "329.23",
+    "low_52w": "7.17",
+    "circulation": "22690470",
+    "market_cap": "7166489170.37",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "320.96"
+      },
+      {
+        "period": 24,
+        "price": "315.77"
+      },
+      {
+        "period": 168,
+        "price": "273.45"
+      },
+      {
+        "period": 720,
+        "price": "241.41"
+      },
+      {
+        "period": 8760,
+        "price": "8.39"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "ENJ/USD",
+    "price": "3.329",
+    "ask": "3.382",
+    "bid": "3.268",
+    "volume_24hr": "441803062.663",
+    "change_amt_24hr": "-0.061",
+    "change_pct_24hr": "-1.810",
+    "high_24hr": "3.606",
+    "low_24hr": "3.283",
+    "high_52w": "4.001",
+    "low_52w": "0.116",
+    "circulation": "1000000000",
+    "market_cap": "3329197460.000",
+    "time": 1636324337,
+    "stats": [
+      {
+        "period": 1,
+        "price": "3.322"
+      },
+      {
+        "period": 24,
+        "price": "3.391"
+      },
+      {
+        "period": 168,
+        "price": "2.572"
+      },
+      {
+        "period": 720,
+        "price": "1.639"
+      },
+      {
+        "period": 8760,
+        "price": "0.138"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "EOS/USD",
+    "price": "4.549",
+    "ask": "4.594",
+    "bid": "4.501",
+    "volume_24hr": "246803480.956",
+    "change_amt_24hr": "0.113",
+    "change_pct_24hr": "2.540",
+    "high_24hr": "4.574",
+    "low_24hr": "4.411",
+    "high_52w": "14.887",
+    "low_52w": "1.995",
+    "circulation": "1038707357.5915",
+    "market_cap": "4725478737.180",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "4.558"
+      },
+      {
+        "period": 24,
+        "price": "4.437"
+      },
+      {
+        "period": 168,
+        "price": "4.639"
+      },
+      {
+        "period": 720,
+        "price": "4.722"
+      },
+      {
+        "period": 8760,
+        "price": "2.538"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "ETC/USD",
+    "price": "53.70",
+    "ask": "54.43",
+    "bid": "53.05",
+    "volume_24hr": "263023630.53",
+    "change_amt_24hr": "1.16",
+    "change_pct_24hr": "2.20",
+    "high_24hr": "54.46",
+    "low_24hr": "52.41",
+    "high_52w": "175.09",
+    "low_52w": "4.76",
+    "circulation": "129537006.75572993",
+    "market_cap": "6956624410.01",
+    "time": 1636324336,
+    "stats": [
+      {
+        "period": 1,
+        "price": "53.73"
+      },
+      {
+        "period": 24,
+        "price": "52.55"
+      },
+      {
+        "period": 168,
+        "price": "54.42"
+      },
+      {
+        "period": 720,
+        "price": "54.68"
+      },
+      {
+        "period": 8760,
+        "price": "5.36"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "ETH/USD",
+    "price": "4606.81",
+    "ask": "4637.71",
+    "bid": "4573.07",
+    "volume_24hr": "5428232081.20",
+    "change_amt_24hr": "107.30",
+    "change_pct_24hr": "2.38",
+    "high_24hr": "4636.57",
+    "low_24hr": "4498.11",
+    "high_52w": "4666.12",
+    "low_52w": "433.89",
+    "circulation": "118123453.8115",
+    "market_cap": "544172076256.53",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "4626.34"
+      },
+      {
+        "period": 24,
+        "price": "4499.51"
+      },
+      {
+        "period": 168,
+        "price": "4305.89"
+      },
+      {
+        "period": 720,
+        "price": "3634.31"
+      },
+      {
+        "period": 8760,
+        "price": "456.30"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "FIL/USD",
+    "price": "62.27",
+    "ask": "63.07",
+    "bid": "61.37",
+    "volume_24hr": "278726420.85",
+    "change_amt_24hr": "1.16",
+    "change_pct_24hr": "1.90",
+    "high_24hr": "62.63",
+    "low_24hr": "61.07",
+    "high_52w": "237.61",
+    "low_52w": "19.98",
+    "circulation": "120807097",
+    "market_cap": "7522463092.50",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "62.50"
+      },
+      {
+        "period": 24,
+        "price": "61.11"
+      },
+      {
+        "period": 168,
+        "price": "63.57"
+      },
+      {
+        "period": 720,
+        "price": "72.04"
+      },
+      {
+        "period": 8760,
+        "price": "31.73"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "FTM/USD",
+    "price": "2.857",
+    "ask": "2.897",
+    "bid": "2.810",
+    "volume_24hr": "325307740.734",
+    "change_amt_24hr": "0.115",
+    "change_pct_24hr": "4.200",
+    "high_24hr": "2.899",
+    "low_24hr": "2.736",
+    "high_52w": "3.550",
+    "low_52w": "0.016",
+    "circulation": "2615146105.4798408",
+    "market_cap": "7471322340.121",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "2.862"
+      },
+      {
+        "period": 24,
+        "price": "2.742"
+      },
+      {
+        "period": 168,
+        "price": "2.768"
+      },
+      {
+        "period": 720,
+        "price": "1.940"
+      },
+      {
+        "period": 8760,
+        "price": "0.018"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "GLM/USD",
+    "price": "0.5614",
+    "ask": "0.5689",
+    "bid": "0.5529",
+    "volume_24hr": "4048964.0341",
+    "change_amt_24hr": "0.0048",
+    "change_pct_24hr": "0.8600",
+    "high_24hr": "0.5685",
+    "low_24hr": "0.5528",
+    "high_52w": "0.7642",
+    "low_52w": "0.0890",
+    "circulation": "544688267.0587373",
+    "market_cap": "305795117.6493",
+    "time": 1636324338,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.5627"
+      },
+      {
+        "period": 24,
+        "price": "0.5566"
+      },
+      {
+        "period": 168,
+        "price": "0.5594"
+      },
+      {
+        "period": 720,
+        "price": "0.5487"
+      },
+      {
+        "period": 8760,
+        "price": "0.0921"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "GRT/USD",
+    "price": "1.0949",
+    "ask": "1.1102",
+    "bid": "1.0784",
+    "volume_24hr": "155106651.5676",
+    "change_amt_24hr": "0.0409",
+    "change_pct_24hr": "3.8800",
+    "high_24hr": "1.1319",
+    "low_24hr": "1.0447",
+    "high_52w": "2.8020",
+    "low_52w": "0.1747",
+    "circulation": "10225875224.20373",
+    "market_cap": "11195874444.8848",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "1.0934"
+      },
+      {
+        "period": 24,
+        "price": "1.0540"
+      },
+      {
+        "period": 168,
+        "price": "1.0444"
+      },
+      {
+        "period": 720,
+        "price": "0.7117"
+      },
+      {
+        "period": 8760,
+        "price": null
+      }
+    ]
+  },
+  {
+    "pair_symbol": "HBAR/USD",
+    "price": "0.3909",
+    "ask": "0.3972",
+    "bid": "0.3835",
+    "volume_24hr": "54342839.3207",
+    "change_amt_24hr": "0.0091",
+    "change_pct_24hr": "2.3800",
+    "high_24hr": "0.3934",
+    "low_24hr": "0.3818",
+    "high_52w": "0.5714",
+    "low_52w": "0.0291",
+    "circulation": "10792756153",
+    "market_cap": "4219132944.0621",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.3908"
+      },
+      {
+        "period": 24,
+        "price": "0.3818"
+      },
+      {
+        "period": 168,
+        "price": "0.4044"
+      },
+      {
+        "period": 720,
+        "price": "0.3794"
+      },
+      {
+        "period": 8760,
+        "price": "0.0314"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "ICX/USD",
+    "price": "2.041",
+    "ask": "2.072",
+    "bid": "2.010",
+    "volume_24hr": "30666024.422",
+    "change_amt_24hr": "-0.015",
+    "change_pct_24hr": "-0.710",
+    "high_24hr": "2.129",
+    "low_24hr": "2.036",
+    "high_52w": "3.203",
+    "low_52w": "0.323",
+    "circulation": "911350720.4876025",
+    "market_cap": "1860090488.293",
+    "time": 1636324335,
+    "stats": [
+      {
+        "period": 1,
+        "price": "2.061"
+      },
+      {
+        "period": 24,
+        "price": "2.056"
+      },
+      {
+        "period": 168,
+        "price": "2.304"
+      },
+      {
+        "period": 720,
+        "price": "2.141"
+      },
+      {
+        "period": 8760,
+        "price": "0.361"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "IOT/USD",
+    "price": "1.341",
+    "ask": "1.355",
+    "bid": "1.327",
+    "volume_24hr": "35587450.456",
+    "change_amt_24hr": "0.015",
+    "change_pct_24hr": "1.100",
+    "high_24hr": "1.349",
+    "low_24hr": "1.317",
+    "high_52w": "2.679",
+    "low_52w": "0.245",
+    "circulation": "2779530283.277761",
+    "market_cap": "3727454675.805",
+    "time": 1636324340,
+    "stats": [
+      {
+        "period": 1,
+        "price": "1.341"
+      },
+      {
+        "period": 24,
+        "price": "1.327"
+      },
+      {
+        "period": 168,
+        "price": "1.425"
+      },
+      {
+        "period": 720,
+        "price": "1.280"
+      },
+      {
+        "period": 8760,
+        "price": "0.267"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "KNC/USD",
+    "price": "1.962",
+    "ask": "1.984",
+    "bid": "1.936",
+    "volume_24hr": "19638054.117",
+    "change_amt_24hr": "0.048",
+    "change_pct_24hr": "2.490",
+    "high_24hr": "1.965",
+    "low_24hr": "1.889",
+    "high_52w": "4.331",
+    "low_52w": "0.705",
+    "circulation": "74201480.19733067",
+    "market_cap": "145550664.400",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "1.960"
+      },
+      {
+        "period": 24,
+        "price": "1.914"
+      },
+      {
+        "period": 168,
+        "price": "2.010"
+      },
+      {
+        "period": 720,
+        "price": "1.710"
+      },
+      {
+        "period": 8760,
+        "price": "0.814"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "LINK/USD",
+    "price": "32.36",
+    "ask": "32.62",
+    "bid": "32.08",
+    "volume_24hr": "398372074.38",
+    "change_amt_24hr": "0.48",
+    "change_pct_24hr": "1.52",
+    "high_24hr": "32.55",
+    "low_24hr": "31.67",
+    "high_52w": "53.02",
+    "low_52w": "8.49",
+    "circulation": "1000000000",
+    "market_cap": "32356682610.00",
+    "time": 1636324343,
+    "stats": [
+      {
+        "period": 1,
+        "price": "32.31"
+      },
+      {
+        "period": 24,
+        "price": "31.87"
+      },
+      {
+        "period": 168,
+        "price": "30.04"
+      },
+      {
+        "period": 720,
+        "price": "27.19"
+      },
+      {
+        "period": 8760,
+        "price": "12.18"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "LTC/USD",
+    "price": "200.75",
+    "ask": "202.09",
+    "bid": "199.24",
+    "volume_24hr": "368362460.65",
+    "change_amt_24hr": "3.63",
+    "change_pct_24hr": "1.84",
+    "high_24hr": "201.77",
+    "low_24hr": "196.86",
+    "high_52w": "413.81",
+    "low_52w": "57.11",
+    "circulation": "68922045.73347135",
+    "market_cap": "13836010002.33",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "200.67"
+      },
+      {
+        "period": 24,
+        "price": "197.12"
+      },
+      {
+        "period": 168,
+        "price": "192.04"
+      },
+      {
+        "period": 720,
+        "price": "180.23"
+      },
+      {
+        "period": 8760,
+        "price": "63.27"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "LUNA/USD",
+    "price": "50.75",
+    "ask": "51.29",
+    "bid": "50.21",
+    "volume_24hr": "308057381.30",
+    "change_amt_24hr": "0.14",
+    "change_pct_24hr": "0.27",
+    "high_24hr": "52.67",
+    "low_24hr": "50.26",
+    "high_52w": "53.19",
+    "low_52w": "0.29",
+    "circulation": "968007105.27728",
+    "market_cap": "49124318746.39",
+    "time": 1636324340,
+    "stats": [
+      {
+        "period": 1,
+        "price": "50.94"
+      },
+      {
+        "period": 24,
+        "price": "50.61"
+      },
+      {
+        "period": 168,
+        "price": "43.18"
+      },
+      {
+        "period": 720,
+        "price": "45.82"
+      },
+      {
+        "period": 8760,
+        "price": "0.31"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "MANA/USD",
+    "price": "2.822",
+    "ask": "2.860",
+    "bid": "2.782",
+    "volume_24hr": "787776225.824",
+    "change_amt_24hr": "0.006",
+    "change_pct_24hr": "0.200",
+    "high_24hr": "2.979",
+    "low_24hr": "2.725",
+    "high_52w": "4.921",
+    "low_52w": "0.070",
+    "circulation": "2194010827.320146",
+    "market_cap": "6192412118.866",
+    "time": 1636324340,
+    "stats": [
+      {
+        "period": 1,
+        "price": "2.806"
+      },
+      {
+        "period": 24,
+        "price": "2.817"
+      },
+      {
+        "period": 168,
+        "price": "2.812"
+      },
+      {
+        "period": 720,
+        "price": "0.768"
+      },
+      {
+        "period": 8760,
+        "price": "0.084"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "MATIC/USD",
+    "price": "1.891",
+    "ask": "1.917",
+    "bid": "1.867",
+    "volume_24hr": "222179035.670",
+    "change_amt_24hr": "0.011",
+    "change_pct_24hr": "0.590",
+    "high_24hr": "1.913",
+    "low_24hr": "1.850",
+    "high_52w": "2.737",
+    "low_52w": "0.015",
+    "circulation": "10000000000",
+    "market_cap": "18909795100.000",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "1.895"
+      },
+      {
+        "period": 24,
+        "price": "1.880"
+      },
+      {
+        "period": 168,
+        "price": "1.926"
+      },
+      {
+        "period": 720,
+        "price": "1.304"
+      },
+      {
+        "period": 8760,
+        "price": "0.015"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "MKR/USD",
+    "price": "2969.16",
+    "ask": "2995.58",
+    "bid": "2938.01",
+    "volume_24hr": "37911457.36",
+    "change_amt_24hr": "-64.51",
+    "change_pct_24hr": "-2.13",
+    "high_24hr": "3063.11",
+    "low_24hr": "2916.74",
+    "high_52w": "6351.24",
+    "low_52w": "472.45",
+    "circulation": "991328.3819549287",
+    "market_cap": "2943414388.32",
+    "time": 1636324332,
+    "stats": [
+      {
+        "period": 1,
+        "price": "2951.92"
+      },
+      {
+        "period": 24,
+        "price": "3033.67"
+      },
+      {
+        "period": 168,
+        "price": "2409.56"
+      },
+      {
+        "period": 720,
+        "price": "2534.70"
+      },
+      {
+        "period": 8760,
+        "price": "543.84"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "NEO/USD",
+    "price": "46.12",
+    "ask": "46.76",
+    "bid": "45.36",
+    "volume_24hr": "94368065.31",
+    "change_amt_24hr": "1.57",
+    "change_pct_24hr": "3.53",
+    "high_24hr": "46.13",
+    "low_24hr": "43.56",
+    "high_52w": "140.98",
+    "low_52w": "12.21",
+    "circulation": "100000000",
+    "market_cap": "4611558085.00",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "45.89"
+      },
+      {
+        "period": 24,
+        "price": "44.54"
+      },
+      {
+        "period": 168,
+        "price": "44.37"
+      },
+      {
+        "period": 720,
+        "price": "46.20"
+      },
+      {
+        "period": 8760,
+        "price": "15.74"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "OCEAN/USD",
+    "price": "0.959",
+    "ask": "0.972",
+    "bid": "0.946",
+    "volume_24hr": "15942642.047",
+    "change_amt_24hr": "0.023",
+    "change_pct_24hr": "2.460",
+    "high_24hr": "0.994",
+    "low_24hr": "0.929",
+    "high_52w": "1.943",
+    "low_52w": "0.268",
+    "circulation": "613099141",
+    "market_cap": "588267283.102",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.967"
+      },
+      {
+        "period": 24,
+        "price": "0.936"
+      },
+      {
+        "period": 168,
+        "price": "0.876"
+      },
+      {
+        "period": 720,
+        "price": "0.827"
+      },
+      {
+        "period": 8760,
+        "price": "0.507"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "OMG/USD",
+    "price": "16.426",
+    "ask": "16.596",
+    "bid": "16.245",
+    "volume_24hr": "760624386.855",
+    "change_amt_24hr": "-0.178",
+    "change_pct_24hr": "-1.070",
+    "high_24hr": "17.643",
+    "low_24hr": "16.274",
+    "high_52w": "20.099",
+    "low_52w": "1.994",
+    "circulation": "140245398.24513277",
+    "market_cap": "2303636859.992",
+    "time": 1636324341,
+    "stats": [
+      {
+        "period": 1,
+        "price": "16.509"
+      },
+      {
+        "period": 24,
+        "price": "16.604"
+      },
+      {
+        "period": 168,
+        "price": "13.376"
+      },
+      {
+        "period": 720,
+        "price": "14.722"
+      },
+      {
+        "period": 8760,
+        "price": "3.326"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "ONT/USD",
+    "price": "1.072",
+    "ask": "1.084",
+    "bid": "1.059",
+    "volume_24hr": "61306144.290",
+    "change_amt_24hr": "0.008",
+    "change_pct_24hr": "0.750",
+    "high_24hr": "1.085",
+    "low_24hr": "1.050",
+    "high_52w": "2.961",
+    "low_52w": "0.341",
+    "circulation": "1000000000",
+    "market_cap": "1072253530.000",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "1.079"
+      },
+      {
+        "period": 24,
+        "price": "1.064"
+      },
+      {
+        "period": 168,
+        "price": "1.036"
+      },
+      {
+        "period": 720,
+        "price": "0.943"
+      },
+      {
+        "period": 8760,
+        "price": "0.474"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "OXT/USD",
+    "price": "0.5078",
+    "ask": "0.5146",
+    "bid": "0.5008",
+    "volume_24hr": "34340770.1155",
+    "change_amt_24hr": "0.0055",
+    "change_pct_24hr": "1.0900",
+    "high_24hr": "0.5208",
+    "low_24hr": "0.4937",
+    "high_52w": "0.9503",
+    "low_52w": "0.1968",
+    "circulation": "1000000000",
+    "market_cap": "507771140.0000",
+    "time": 1636324341,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.5023"
+      },
+      {
+        "period": 24,
+        "price": "0.5023"
+      },
+      {
+        "period": 168,
+        "price": "0.4225"
+      },
+      {
+        "period": 720,
+        "price": "0.3295"
+      },
+      {
+        "period": 8760,
+        "price": "0.2351"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "QTUM/USD",
+    "price": "16.44",
+    "ask": "16.59",
+    "bid": "16.30",
+    "volume_24hr": "155699269.03",
+    "change_amt_24hr": "-0.32",
+    "change_pct_24hr": "-1.91",
+    "high_24hr": "16.99",
+    "low_24hr": "16.27",
+    "high_52w": "35.50",
+    "low_52w": "1.87",
+    "circulation": "103877337",
+    "market_cap": "1707571824.27",
+    "time": 1636324341,
+    "stats": [
+      {
+        "period": 1,
+        "price": "16.47"
+      },
+      {
+        "period": 24,
+        "price": "16.76"
+      },
+      {
+        "period": 168,
+        "price": "14.81"
+      },
+      {
+        "period": 720,
+        "price": "13.08"
+      },
+      {
+        "period": 8760,
+        "price": "2.07"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "SHIB/USD",
+    "price": "0.00005693",
+    "ask": "0.00005842",
+    "bid": "0.00005552",
+    "volume_24hr": "1898495789.02024080",
+    "change_amt_24hr": "-0.00000139",
+    "change_pct_24hr": "-2.38000000",
+    "high_24hr": "0.00005915",
+    "low_24hr": "0.00005578",
+    "high_52w": "0.00008854",
+    "low_52w": "0.00000509",
+    "circulation": "589738010133087.5",
+    "market_cap": "33573784916.87667138",
+    "time": 1636324341,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.00005718"
+      },
+      {
+        "period": 24,
+        "price": "0.00005832"
+      },
+      {
+        "period": 168,
+        "price": "0.00006477"
+      },
+      {
+        "period": 720,
+        "price": "0.00002724"
+      },
+      {
+        "period": 8760,
+        "price": null
+      }
+    ]
+  },
+  {
+    "pair_symbol": "SOL/USD",
+    "price": "249.44",
+    "ask": "252.38",
+    "bid": "246.04",
+    "volume_24hr": "1758636067.07",
+    "change_amt_24hr": "-7.00",
+    "change_pct_24hr": "-2.73",
+    "high_24hr": "259.36",
+    "low_24hr": "245.80",
+    "high_52w": "260.09",
+    "low_52w": "1.11",
+    "circulation": "508383586.00060576",
+    "market_cap": "126810001830.47",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "248.10"
+      },
+      {
+        "period": 24,
+        "price": "256.44"
+      },
+      {
+        "period": 168,
+        "price": "204.33"
+      },
+      {
+        "period": 720,
+        "price": "157.01"
+      },
+      {
+        "period": 8760,
+        "price": "1.91"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "SRM/USD",
+    "price": "7.723",
+    "ask": "7.830",
+    "bid": "7.625",
+    "volume_24hr": "86782469.068",
+    "change_amt_24hr": "-0.082",
+    "change_pct_24hr": "-1.060",
+    "high_24hr": "7.920",
+    "low_24hr": "7.645",
+    "high_52w": "13.728",
+    "low_52w": "0.876",
+    "circulation": "161000001",
+    "market_cap": "1243481533.863",
+    "time": 1636324337,
+    "stats": [
+      {
+        "period": 1,
+        "price": "7.764"
+      },
+      {
+        "period": 24,
+        "price": "7.806"
+      },
+      {
+        "period": 168,
+        "price": "7.254"
+      },
+      {
+        "period": 720,
+        "price": "8.200"
+      },
+      {
+        "period": 8760,
+        "price": "0.997"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "STMX/USD",
+    "price": "0.03254",
+    "ask": "0.03319",
+    "bid": "0.03169",
+    "volume_24hr": "10789858.23870",
+    "change_amt_24hr": "-0.00024",
+    "change_pct_24hr": "-0.73000",
+    "high_24hr": "0.03339",
+    "low_24hr": "0.03224",
+    "high_52w": "0.09964",
+    "low_52w": "0.00179",
+    "circulation": "10000000000",
+    "market_cap": "325403600.00000",
+    "time": 1636324337,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.03256"
+      },
+      {
+        "period": 24,
+        "price": "0.03278"
+      },
+      {
+        "period": 168,
+        "price": "0.03275"
+      },
+      {
+        "period": 720,
+        "price": "0.03426"
+      },
+      {
+        "period": 8760,
+        "price": "0.00192"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "SUSHI/USD",
+    "price": "12.17",
+    "ask": "12.32",
+    "bid": "12.00",
+    "volume_24hr": "131347400.27",
+    "change_amt_24hr": "0.40",
+    "change_pct_24hr": "3.42",
+    "high_24hr": "12.28",
+    "low_24hr": "11.56",
+    "high_52w": "23.41",
+    "low_52w": "0.58",
+    "circulation": "237184325.3584956",
+    "market_cap": "2887718962.00",
+    "time": 1636324338,
+    "stats": [
+      {
+        "period": 1,
+        "price": "12.21"
+      },
+      {
+        "period": 24,
+        "price": "11.77"
+      },
+      {
+        "period": 168,
+        "price": "10.97"
+      },
+      {
+        "period": 720,
+        "price": "10.94"
+      },
+      {
+        "period": 8760,
+        "price": "0.62"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "TRX/USD",
+    "price": "0.1042",
+    "ask": "0.1057",
+    "bid": "0.1027",
+    "volume_24hr": "836096338.8656",
+    "change_amt_24hr": "0.0027",
+    "change_pct_24hr": "2.6300",
+    "high_24hr": "0.1044",
+    "low_24hr": "0.1007",
+    "high_52w": "0.1801",
+    "low_52w": "0.0237",
+    "circulation": "99241947122",
+    "market_cap": "10337707125.6927",
+    "time": 1636324340,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.1042"
+      },
+      {
+        "period": 24,
+        "price": "0.1015"
+      },
+      {
+        "period": 168,
+        "price": "0.1016"
+      },
+      {
+        "period": 720,
+        "price": "0.0957"
+      },
+      {
+        "period": 8760,
+        "price": "0.0262"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "TUSD/USD",
+    "price": "1.0000",
+    "ask": "1.0015",
+    "bid": "0.9985",
+    "volume_24hr": "16587836.2759",
+    "change_amt_24hr": "0.0000",
+    "change_pct_24hr": "0.0000",
+    "high_24hr": "1.0000",
+    "low_24hr": "1.0000",
+    "high_52w": "1.0000",
+    "low_52w": "1.0000",
+    "circulation": "981272261.88",
+    "market_cap": "981272261.8800",
+    "time": 1636324343,
+    "stats": [
+      {
+        "period": 1,
+        "price": "1.0000"
+      },
+      {
+        "period": 24,
+        "price": "1.0000"
+      },
+      {
+        "period": 168,
+        "price": "1.0000"
+      },
+      {
+        "period": 720,
+        "price": "1.0000"
+      },
+      {
+        "period": 8760,
+        "price": "1.0000"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "UMA/USD",
+    "price": "15.44",
+    "ask": "15.75",
+    "bid": "15.10",
+    "volume_24hr": "294818030.56",
+    "change_amt_24hr": "2.80",
+    "change_pct_24hr": "22.14",
+    "high_24hr": "22.01",
+    "low_24hr": "12.50",
+    "high_52w": "44.50",
+    "low_52w": "6.76",
+    "circulation": "105156792.4202005",
+    "market_cap": "1623828368.25",
+    "time": 1636324343,
+    "stats": [
+      {
+        "period": 1,
+        "price": "16.30"
+      },
+      {
+        "period": 24,
+        "price": "12.64"
+      },
+      {
+        "period": 168,
+        "price": "11.47"
+      },
+      {
+        "period": 720,
+        "price": "9.95"
+      },
+      {
+        "period": 8760,
+        "price": "7.46"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "UNI/USD",
+    "price": "25.35",
+    "ask": "25.67",
+    "bid": "25.03",
+    "volume_24hr": "93892078.47",
+    "change_amt_24hr": "0.32",
+    "change_pct_24hr": "1.26",
+    "high_24hr": "25.49",
+    "low_24hr": "24.92",
+    "high_52w": "45.04",
+    "low_52w": "2.57",
+    "circulation": "1000000000",
+    "market_cap": "25352587310.00",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "25.40"
+      },
+      {
+        "period": 24,
+        "price": "25.04"
+      },
+      {
+        "period": 168,
+        "price": "25.14"
+      },
+      {
+        "period": 720,
+        "price": "25.72"
+      },
+      {
+        "period": 8760,
+        "price": "2.57"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "USDC/USD",
+    "price": "1.0000",
+    "ask": "1.0000",
+    "bid": "1.0000",
+    "volume_24hr": "180114475.2089",
+    "change_amt_24hr": "0.0000",
+    "change_pct_24hr": "0.0000",
+    "high_24hr": "1.0000",
+    "low_24hr": "1.0000",
+    "high_52w": "1.0000",
+    "low_52w": "1.0000",
+    "circulation": "32722865153.073746",
+    "market_cap": "32722865153.0737",
+    "time": 1636324343,
+    "stats": [
+      {
+        "period": 1,
+        "price": "1.0000"
+      },
+      {
+        "period": 24,
+        "price": "1.0000"
+      },
+      {
+        "period": 168,
+        "price": "1.0000"
+      },
+      {
+        "period": 720,
+        "price": "1.0000"
+      },
+      {
+        "period": 8760,
+        "price": "1.0000"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "USDT/USD",
+    "price": "1.0000",
+    "ask": "1.0015",
+    "bid": "0.9985",
+    "volume_24hr": "392641780.7628",
+    "change_amt_24hr": "0.0000",
+    "change_pct_24hr": "0.0000",
+    "high_24hr": "1.0000",
+    "low_24hr": "1.0000",
+    "high_52w": "1.0000",
+    "low_52w": "1.0000",
+    "circulation": "73427305535.3017",
+    "market_cap": "73427305535.3017",
+    "time": 1636324343,
+    "stats": [
+      {
+        "period": 1,
+        "price": "1.0000"
+      },
+      {
+        "period": 24,
+        "price": "1.0000"
+      },
+      {
+        "period": 168,
+        "price": "1.0000"
+      },
+      {
+        "period": 720,
+        "price": "1.0000"
+      },
+      {
+        "period": 8760,
+        "price": "1.0000"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "VET/USD",
+    "price": "0.1561",
+    "ask": "0.1587",
+    "bid": "0.1531",
+    "volume_24hr": "253760488.7487",
+    "change_amt_24hr": "-0.0005",
+    "change_pct_24hr": "-0.3300",
+    "high_24hr": "0.1618",
+    "low_24hr": "0.1553",
+    "high_52w": "0.2785",
+    "low_52w": "0.0104",
+    "circulation": "85985041177",
+    "market_cap": "13419371531.0941",
+    "time": 1636324341,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.1566"
+      },
+      {
+        "period": 24,
+        "price": "0.1566"
+      },
+      {
+        "period": 168,
+        "price": "0.1346"
+      },
+      {
+        "period": 720,
+        "price": "0.1132"
+      },
+      {
+        "period": 8760,
+        "price": "0.0112"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "VGX/USD",
+    "price": "2.499",
+    "ask": "2.562",
+    "bid": "2.436",
+    "volume_24hr": "2457892.927",
+    "change_amt_24hr": "-0.030",
+    "change_pct_24hr": "-1.180",
+    "high_24hr": "2.571",
+    "low_24hr": "2.405",
+    "high_52w": "7.286",
+    "low_52w": "0.125",
+    "circulation": "280748963.5201385",
+    "market_cap": "701520832.488",
+    "time": 1636324337,
+    "stats": [
+      {
+        "period": 1,
+        "price": "2.498"
+      },
+      {
+        "period": 24,
+        "price": "2.529"
+      },
+      {
+        "period": 168,
+        "price": "2.928"
+      },
+      {
+        "period": 720,
+        "price": "2.268"
+      },
+      {
+        "period": 8760,
+        "price": "0.154"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "XLM/USD",
+    "price": "0.3634",
+    "ask": "0.3673",
+    "bid": "0.3592",
+    "volume_24hr": "188299203.6902",
+    "change_amt_24hr": "0.0066",
+    "change_pct_24hr": "1.8500",
+    "high_24hr": "0.3649",
+    "low_24hr": "0.3559",
+    "high_52w": "0.7977",
+    "low_52w": "0.0779",
+    "circulation": "50001802643.976524",
+    "market_cap": "18169533540.3878",
+    "time": 1636324341,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.3638"
+      },
+      {
+        "period": 24,
+        "price": "0.3568"
+      },
+      {
+        "period": 168,
+        "price": "0.3735"
+      },
+      {
+        "period": 720,
+        "price": "0.3495"
+      },
+      {
+        "period": 8760,
+        "price": "0.0839"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "XMR/USD",
+    "price": "265.29",
+    "ask": "268.60",
+    "bid": "261.75",
+    "volume_24hr": "110126037.96",
+    "change_amt_24hr": "7.76",
+    "change_pct_24hr": "3.01",
+    "high_24hr": "266.52",
+    "low_24hr": "251.11",
+    "high_52w": "519.33",
+    "low_52w": "108.02",
+    "circulation": "18025331.407250762",
+    "market_cap": "4781850343.94",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "264.91"
+      },
+      {
+        "period": 24,
+        "price": "257.53"
+      },
+      {
+        "period": 168,
+        "price": "273.13"
+      },
+      {
+        "period": 720,
+        "price": "280.94"
+      },
+      {
+        "period": 8760,
+        "price": "119.32"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "XRP/USD",
+    "price": "1.211",
+    "ask": "1.222",
+    "bid": "1.182",
+    "volume_24hr": "1510950270.689",
+    "change_amt_24hr": "0.064",
+    "change_pct_24hr": "5.560",
+    "high_24hr": "1.236",
+    "low_24hr": "1.145",
+    "high_52w": "1.968",
+    "low_52w": "0.172",
+    "circulation": "99990161790",
+    "market_cap": "121109027867.175",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "1.223"
+      },
+      {
+        "period": 24,
+        "price": "1.147"
+      },
+      {
+        "period": 168,
+        "price": "1.122"
+      },
+      {
+        "period": 720,
+        "price": "1.076"
+      },
+      {
+        "period": 8760,
+        "price": "0.259"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "XTZ/USD",
+    "price": "6.360",
+    "ask": "6.417",
+    "bid": "6.297",
+    "volume_24hr": "108183994.961",
+    "change_amt_24hr": "-0.037",
+    "change_pct_24hr": "-0.570",
+    "high_24hr": "6.447",
+    "low_24hr": "6.318",
+    "high_52w": "9.119",
+    "low_52w": "1.585",
+    "circulation": "894582378.421315",
+    "market_cap": "5689786233.343",
+    "time": 1636324343,
+    "stats": [
+      {
+        "period": 1,
+        "price": "6.369"
+      },
+      {
+        "period": 24,
+        "price": "6.397"
+      },
+      {
+        "period": 168,
+        "price": "6.321"
+      },
+      {
+        "period": 720,
+        "price": "7.752"
+      },
+      {
+        "period": 8760,
+        "price": "2.093"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "XVG/USD",
+    "price": "0.02414",
+    "ask": "0.02504",
+    "bid": "0.02277",
+    "volume_24hr": "9698195.45054",
+    "change_amt_24hr": "0.00084",
+    "change_pct_24hr": "3.63000",
+    "high_24hr": "0.02428",
+    "low_24hr": "0.02238",
+    "high_52w": "0.08450",
+    "low_52w": "0.00393",
+    "circulation": "16484558637.83363",
+    "market_cap": "397964774.73023",
+    "time": 1636324339,
+    "stats": [
+      {
+        "period": 1,
+        "price": "0.02398"
+      },
+      {
+        "period": 24,
+        "price": "0.02330"
+      },
+      {
+        "period": 168,
+        "price": "0.02419"
+      },
+      {
+        "period": 720,
+        "price": "0.02280"
+      },
+      {
+        "period": 8760,
+        "price": "0.00436"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "YFI/USD",
+    "price": "34852.21",
+    "ask": "35341.52",
+    "bid": "34397.67",
+    "volume_24hr": "38278615.20",
+    "change_amt_24hr": "1109.33",
+    "change_pct_24hr": "3.29",
+    "high_24hr": "35016.00",
+    "low_24hr": "33477.87",
+    "high_52w": "95094.85",
+    "low_52w": "13893.45",
+    "circulation": "36666",
+    "market_cap": "1277891008.68",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "34758.50"
+      },
+      {
+        "period": 24,
+        "price": "33742.88"
+      },
+      {
+        "period": 168,
+        "price": "34007.96"
+      },
+      {
+        "period": 720,
+        "price": "32386.93"
+      },
+      {
+        "period": 8760,
+        "price": "11824.75"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "ZEC/USD",
+    "price": "160.84",
+    "ask": "162.79",
+    "bid": "158.64",
+    "volume_24hr": "82886184.69",
+    "change_amt_24hr": "2.09",
+    "change_pct_24hr": "1.32",
+    "high_24hr": "162.26",
+    "low_24hr": "158.38",
+    "high_52w": "372.25",
+    "low_52w": "46.98",
+    "circulation": "11768131.57580031",
+    "market_cap": "1892824966.38",
+    "time": 1636324333,
+    "stats": [
+      {
+        "period": 1,
+        "price": "160.84"
+      },
+      {
+        "period": 24,
+        "price": "158.75"
+      },
+      {
+        "period": 168,
+        "price": "171.06"
+      },
+      {
+        "period": 720,
+        "price": "125.64"
+      },
+      {
+        "period": 8760,
+        "price": "61.62"
+      }
+    ]
+  },
+  {
+    "pair_symbol": "ZRX/USD",
+    "price": "1.212",
+    "ask": "1.224",
+    "bid": "1.200",
+    "volume_24hr": "33993004.722",
+    "change_amt_24hr": "-0.001",
+    "change_pct_24hr": "-0.110",
+    "high_24hr": "1.242",
+    "low_24hr": "1.197",
+    "high_52w": "2.399",
+    "low_52w": "0.311",
+    "circulation": "1000000000",
+    "market_cap": "1212457530.000",
+    "time": 1636324342,
+    "stats": [
+      {
+        "period": 1,
+        "price": "1.215"
+      },
+      {
+        "period": 24,
+        "price": "1.214"
+      },
+      {
+        "period": 168,
+        "price": "1.174"
+      },
+      {
+        "period": 720,
+        "price": "1.021"
+      },
+      {
+        "period": 8760,
+        "price": "0.377"
+      }
+    ]
+  }
+]
